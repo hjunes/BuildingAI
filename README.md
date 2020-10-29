@@ -6,16 +6,11 @@ Building AI course project
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
+Use your own phone to scan the barcodes of the shopping items at a grocery shop, or, at home. After scanning a barcode you will get more information on the product. Then you may decide how many items you enter to your virtual shopping basket. 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+Self-service is an increasing trend in shopping world. Using own phone for scanning shopping items frees the grocery from owning expensive cashier systems. This project helps you to create shopping list at home, just by using your own mobile phone.
 
 ## How is it used?
 
@@ -23,10 +18,8 @@ Describe the process of using the solution. In what kind situations is the solut
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+<img src="https://commons.wikimedia.org/wiki/Barcode#/media/File:EAN-Obst.jpg">
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 This is how you create code examples:
 ```
